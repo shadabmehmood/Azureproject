@@ -1,1 +1,1 @@
-# Azureproject
+# Future Ready Talent Internship project
